@@ -7,7 +7,8 @@ Thematic is a Jekyll theme based on Poole's [Lanyon](https://github.com/poole/la
 - [Changes](#changes)
   - [Defaults](#defaults)
   - [Additions](#additons)
-    - [Emoji](#emoji)
+    - [Plugins](#plugins)
+    - [Sidebar](#sidebar)
 - [License](#license)
 
 ## Changes
@@ -17,9 +18,14 @@ Thematic is a Jekyll theme based on Poole's [Lanyon](https://github.com/poole/la
 Thematic's default setup uses Lanyon's Base 08 theme, and reverses the sidebar layout. You can changes these, as specified in the [Lanyon readme](https://github.com/poole/lanyon#options).
 
 ### Additions
-#### Emoji
+#### Plugins
 
-Added emoji support with [Jemoji](https://github.com/jekyll/jemoji).
+- Added emoji support with [Jemoji](https://github.com/jekyll/jemoji)
+- Added a sitemap with [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap)
+
+#### Sidebar
+
+- Added Author profile to bottom of sidebar, removed copyright notice (now displayed as a footer)
 
 ## License
 

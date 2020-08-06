@@ -13,7 +13,8 @@
  * https://github.com/poole/lanyon.
  *
  * THEMATIC
- * A fork of Lanyon. Find out more at https://github.com/forgenst/thematic
+ * Forked from Lanyon by Forgenst.
+ * Find out more at https://github.com/forgenst/thematic.
  */
 
 
@@ -23,6 +24,7 @@
  * Global resets
  * Masthead
  * Sidebar
+ *   * Author
  * Slide effect
  * Posts and pages
  * Pagination
@@ -259,6 +261,12 @@ a.sidebar-nav-item:focus {
     display: none;
   }
 }
+
+/* Author
+ *
+ * {Added by Thematic}
+ * Adds author infomation to the sidebar
+*/
 
 /* Slide effect
  *

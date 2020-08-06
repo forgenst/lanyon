@@ -17,6 +17,7 @@ author:
 plugins:
   - jekyll-paginate
   - jemoji
+  - jekyll-sitemap
 
 # Custom vars
 version:             1.0.0
