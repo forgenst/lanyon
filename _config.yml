@@ -20,3 +20,5 @@ plugins:
 # Custom vars
 version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
+github:
+  repo: https://github.com/forgenst/thematic
