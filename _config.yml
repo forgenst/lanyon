@@ -2,8 +2,7 @@
 title:               Thematic
 tagline:             'A Jekyll theme'
 description:         ''
-url:                 https://blog.forgenst.com/thematic
-baseurl:             '/thematic'
+url:                 https://blog.forgenst.com
 paginate:            5
 permalink:           pretty
 
