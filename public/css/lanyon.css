@@ -568,7 +568,7 @@ a.pagination-item:hover {
 
 footer {
   border-top: 1px solid #444444;
-  margin-top: 100px;
+  margin-top: 5%;
   position: absolute;
   height: 1%;
   color: inherit;
