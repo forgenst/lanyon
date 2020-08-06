@@ -247,6 +247,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-paginate
+  jemoji
   tzinfo-data
   wdm (~> 0.1.0)
 

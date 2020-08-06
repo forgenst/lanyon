@@ -1,7 +1,7 @@
 # Setup
 title:               Thematic
 tagline:             'A Jekyll theme'
-description:         ''
+description:         'Based on Lanyon, made by Forgenst'
 url:                 https://blog.forgenst.com
 baseurl:             '/thematic'
 paginate:            5
@@ -16,6 +16,7 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
+  - jemoji
 
 # Custom vars
 version:             1.0.0
