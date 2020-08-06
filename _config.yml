@@ -10,7 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Ed Mason
-  url:               https://forgenst.com
+  # Don't add protocol (i.e. http or https)
+  url:               forgenst.com
   email:             ed@forgenst.com
 
 # Gems
@@ -22,5 +23,6 @@ plugins:
 # Custom vars
 version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
+fontawesome: 01f55bc79f #fontawesome id here -> get one at https://fontawesome.com/start (Don't use mine!)
 github:
   repo: https://github.com/forgenst/thematic

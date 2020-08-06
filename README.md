@@ -9,6 +9,7 @@ Thematic is a Jekyll theme based on Poole's [Lanyon](https://github.com/poole/la
   - [Additions](#additons)
     - [Plugins](#plugins)
     - [Sidebar](#sidebar)
+    - [Font Awesome](#font-awesome)
 - [License](#license)
 
 ## Changes
@@ -26,6 +27,17 @@ Thematic's default setup uses Lanyon's Base 08 theme, and reverses the sidebar l
 #### Sidebar
 
 - Added Author profile to bottom of sidebar, removed copyright notice (now displayed as a footer)
+- Added link to [RSS Feed](https://blog.forgenst.com/thematic/atom.xml)
+
+#### Font Awesome
+
+Added [Font Awesome](https://fontawesome.com) support, so you can add icons in your pages/posts, e.g.
+
+```
+<i class="fa fa-github"></i>
+```
+
+*NB: You will need a Font Awesome ID, which you can get for free on their [website](https://fontawesome.com/start), and add it to _config.yml*
 
 ## License
 

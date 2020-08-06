@@ -27,9 +27,11 @@
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
   </nav>
   <div class="sidebar-item">
-    <h4>Author</h4>
     <p>{{ site.author.name }}</p>
-    <p><a href="{{ site.author.url }}">{{ site.author.url }}</a></p>
+    <p><a href="https://{{ site.author.url }}">{{ site.author.url }}</a></p>
     <p><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+  </div>
+  <div class="sidebar-nav-item">
+    <a class="{% if page.title == 'Home' %} active{% endif %}" href="{{ '/atom.xml' | absolute_url }}"><i class="fa fa-rss-square"></i> RSS Feed</a>
   </div>
 </div>
