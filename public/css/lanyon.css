@@ -267,6 +267,10 @@ a.sidebar-nav-item:focus {
  * {Added by Thematic}
  * Adds author infomation to the sidebar
 */
+.author {
+  border: 1px solid #444444;
+  border-radius: 20px;
+}
 
 /* Slide effect
  *
