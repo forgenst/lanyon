@@ -28,6 +28,7 @@
  * Pagination
  * Reverse layout
  * Themes
+ * Footer
  */
 
 
@@ -558,4 +559,20 @@ a.pagination-item:hover {
 /* Only one tweak for a reverse layout */
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
+}
+
+/*
+ * Footer
+ * {Added in Thematic}
+*/
+
+footer {
+  border-top: 1px solid #444444;
+  margin-top: 100px;
+  position: absolute;
+  height: 1%;
+  color: inherit;
+  text-align: center;
+  margin-left: 35%;
+  margin-right: 35%;
 }
