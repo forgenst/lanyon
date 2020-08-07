@@ -3,7 +3,7 @@ title:               Thematic
 tagline:             'A Jekyll theme'
 description:         'Based on Lanyon, made by Forgenst'
 url:                 https://blog.forgenst.com
-baseurl:             '/thematic'
+baseurl:             '/minimal-madness'
 paginate:            5
 permalink:           pretty
 
@@ -25,4 +25,4 @@ version:             1.0.0
 google_analytics_id: #UA-XXXX-Y
 fontawesome: 01f55bc79f #fontawesome id here -> get one at https://fontawesome.com/start (Don't use mine!)
 github:
-  repo: https://github.com/forgenst/thematic
+  repo: https://github.com/forgenst/minimal-madness
