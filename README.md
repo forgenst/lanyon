@@ -1,6 +1,6 @@
-# Thematic
+# Minimal Madness
 
-Thematic is a Jekyll theme based on Poole's [Lanyon](https://github.com/poole/lanyon). All the [options](https://github.com/poole/lanyon#options) available with Lanyon are available on Thematic, with any changes noted below.
+Minimal Madness is a Jekyll theme based on Poole's [Lanyon](https://github.com/poole/lanyon). All the [options](https://github.com/poole/lanyon#options) available with Lanyon are available on Minimal Madness, with any changes noted below.
 
 
 ## Contents
@@ -16,7 +16,7 @@ Thematic is a Jekyll theme based on Poole's [Lanyon](https://github.com/poole/la
 
 ### Defaults
 
-Thematic's default setup uses Lanyon's Base 08 theme, and reverses the sidebar layout. You can changes these, as specified in the [Lanyon readme](https://github.com/poole/lanyon#options).
+Minimal Madness' default setup uses Lanyon's Base 08 theme, and reverses the sidebar layout. You can changes these, as specified in the [Lanyon readme](https://github.com/poole/lanyon#options).
 
 ### Additions
 #### Plugins
@@ -27,7 +27,7 @@ Thematic's default setup uses Lanyon's Base 08 theme, and reverses the sidebar l
 #### Sidebar
 
 - Added Author profile to bottom of sidebar, removed copyright notice (now displayed as a footer)
-- Added link to [RSS Feed](https://blog.forgenst.com/thematic/atom.xml)
+- Added link to [RSS Feed](https://blog.forgenst.com/minimal-madness/atom.xml)
 
 #### Font Awesome
 
