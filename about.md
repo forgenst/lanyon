@@ -11,6 +11,6 @@ There are currently two themes built on Poole:
 
 Learn more and contribute on [GitHub](https://github.com/poole).
 
-## Thematic
+## Minimal Madness
 
-Thematic is [my](https://github.com/forgenst) fork of Poole's [Lanyon](https://github.com/poole/lanyon) theme. If you have any issues, or want to contribute, go to the GitHub repo, [here](https://github.com/forgenst/thematic).
+Minimal Madness is [my](https://github.com/forgenst) fork of Poole's [Lanyon](https://github.com/poole/lanyon) theme. If you have any issues, or want to contribute, go to the GitHub repo, [here](https://github.com/forgenst/minimal-madness).
